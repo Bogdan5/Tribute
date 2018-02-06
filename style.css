@@ -2,42 +2,29 @@
   width:  48%;
   height: auto;
 }
+.centered{
+  margin:0 auto;
+}
 #gray-box {
   margin-top: 50px;
   background:#f2f2f2;
-  height:1250px;
-  position:absolute;
+  /*eight:1250px;*/
   width:1000px;
-  left:50%;
-  margin-left:-500px;
   border-radius: 15px;
   margin-bottom: 50px;
 }
 #white-box {
   background:white;
   height:430px;
-  position:absolute;
   width:500px;
-  left:50%;
-  margin-left:-250px;
   border-radius: 15px;
-  margin-top: 200px;
   }
 #text-box {
-  margin-top: 650px;
-  height:350px;
-  position:absolute;
+  margin-top: 10px;
   width:700px;
-  left:50%;
-  margin-left:-350px;
 }
 #bottom-box {
- margin-bottom: 5px;
- margin-top: 20px;
  width:1000px;
- left:50%;
- margin-left:-500px;
- position:absolute;
  border-top-style: solid;
  border-top-color: #f2f2f2;
  text-align: center;
